@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lines to Comma Separated Values", "Lines to Comma Separated Values\Lines to Comma Separated Values.csproj", "{4F932CE1-02B5-4410-8946-9928B52686FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F932CE1-02B5-4410-8946-9928B52686FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F932CE1-02B5-4410-8946-9928B52686FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F932CE1-02B5-4410-8946-9928B52686FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F932CE1-02B5-4410-8946-9928B52686FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE914AD-A630-4CB7-9BBB-48F63670A227}
+	EndGlobalSection
+EndGlobal
