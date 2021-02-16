@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Lines to Comma Separated Values")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Jonathan Ettie")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Lines to Comma Separated Values")]
-[assembly: AssemblyCopyright("Copyright © Jonathan Ettie 2016")]
+[assembly: AssemblyCopyright("Copyright © Jonathan Ettie 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
